@@ -6,9 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "ceylon_mc_network.aternos.me
+",
+    "port": 59921,
+    "version": "1.21.8"
   },
   "position": {
     "enabled": true,
